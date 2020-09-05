@@ -23,7 +23,7 @@ A quick review of Python basics
 - [Recursion and Memoization](https://github.com/Amgd2112/Python-Fundamentals/blob/master/recursion-and-memoization.ipynb)
 - [Classes](https://github.com/Amgd2112/Python-Fundamentals/blob/master/class.ipynb)
 
-## Other Topics
+### Other Topics
 - [Exception](https://github.com/Amgd2112/Python-Fundamentals/blob/master/exception.ipynb)
 - [File Management](https://github.com/Amgd2112/Python-Fundamentals/blob/master/files.ipynb)
 - [Libraries](https://github.com/Amgd2112/Python-Fundamentals/blob/master/Libraries.ipynb) 
